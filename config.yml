@@ -57,9 +57,6 @@ params:
       enable: true
       website_id: b3b3657d-df5a-4e57-b0cc-c2fa77a230e7
       url: https://analytics.wtfclebs.com/script.js
-  guestbook:
-    title: Guestbook
-    description: Leave a comment below. It could be anything –- question, appreciation, information, or even humor.
   social:
     - name: GitHub
       pre: >-
