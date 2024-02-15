@@ -47,8 +47,8 @@ params:
       enable: true
       repo: whoisclebs/wtfclebs.com
       repo_id: 757773794
-      category: Announcements
-      category_id: DIC_kwDOHyVOjs4CQsH7
+      category: General
+      category_id: DIC_kwDOLSq14s4CdPDt
       mapping: pathname
       position: top
       lang: en
