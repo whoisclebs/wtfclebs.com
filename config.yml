@@ -46,7 +46,7 @@ params:
     giscus:
       enable: true
       repo: whoisclebs/wtfclebs.com
-      repo_id: 757773794
+      repo_id: R_kgDOLSq14g
       category: General
       category_id: DIC_kwDOLSq14s4CdPDt
       mapping: pathname
