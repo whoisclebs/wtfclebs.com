@@ -34,7 +34,7 @@ params:
   avatarURL: /images/avatar.png
   author: Clebson
   authorDescription: WTF Clebs?!? An essay about things I like
-  info: Ladder is a clean, simple but beautiful theme with awesome features
+  info: A clean, simple but beautiful theme with awesome features
   favicon: /images/avatar.png
   options:
     showDarkMode: true
