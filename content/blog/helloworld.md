@@ -8,3 +8,4 @@ featured: true
 Hello World
 <!--more-->
 
+Hello World
