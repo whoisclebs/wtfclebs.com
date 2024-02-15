@@ -37,9 +37,9 @@ weight = 5
 [params]
 brand = "HOME"
 avatarURL = "/images/avatar.png"
-author = "Hugo Ladder"
-authorDescription = "A clean, fast hugo theme focused on Reading"
-info = "Ladder is a clean, simple but beautiful theme with awesome features"
+author = "Clebson Augusto"
+authorDescription = "WTF Clebs?!? An essay about things I like"
+info = "A developer with a passion for writing about satire, trash movies, software engineering, investments, travel, and worldviews."
 favicon = "/images/avatar.png"
 darkModeTheme = "data-dark-mode"
 

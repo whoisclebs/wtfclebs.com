@@ -34,7 +34,7 @@ params:
   avatarURL: /images/avatar.png
   author: Clebson
   authorDescription: WTF Clebs?!? An essay about things I like
-  info: A clean, simple but beautiful theme with awesome features
+  info: A developer with a passion for writing about satire, trash movies, software engineering, investments, travel, and worldviews.
   favicon: /images/avatar.png
   options:
     showDarkMode: true
