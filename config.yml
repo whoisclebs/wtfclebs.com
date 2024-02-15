@@ -27,7 +27,7 @@ menu:
       url: /guestbook
       weight: 4
     - name: Monitor
-      url: https://analytics.wtfclebs.com
+      url: https://analytics.wtfclebs.com/share/YbcjTLTnvaKGc5no/wtfclebs
       weight: 5
 params:
   brand: HOME
