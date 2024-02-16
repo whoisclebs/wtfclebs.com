@@ -32,3 +32,6 @@ other = "Recursos relacionados"
 [featured_posts]
 one = "Postagem em destaque"
 other = "Postagens em destaque"
+
+[continue_reading]
+other = "Continue lendo"

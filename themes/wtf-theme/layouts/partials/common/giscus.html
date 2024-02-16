@@ -5,6 +5,7 @@
       let theme = getTheme === 'dark' ? 'dark' : 'light';
       let s = document.createElement('script');
       s.src = 'https://giscus.app/client.js';
+      s.setAttribute('id', 'giscus');
       s.setAttribute('data-repo', '{{ .Site.Params.comments.giscus.repo }}');
       s.setAttribute('data-repo-id', '{{ .Site.Params.comments.giscus.repo_id }}');
       s.setAttribute('data-category', '{{ .Site.Params.comments.giscus.category }}');

@@ -8,6 +8,7 @@
           <h3><a href="{{ .RelPermalink }}">{{ .Params.title }}</a></h3>
           {{ partial "blog/meta.html" . }}
           {{ .Summary }}
+          <u><a href="{{ .RelPermalink }}">{{- i18n "continue_reading" -}} →</a></u>
         </div>
       </article>
       {{ end -}}

@@ -59,11 +59,6 @@ mapping = "pathname"
 position = "top"
 lang = "en"
 
-[params.comments.utteranc]
-enable = false
-repo = "username/reponame"
-issueTerm = "pathname"
-
 [params.analytics.google]
 SiteVerificationTag = "xxx"
 
@@ -96,9 +91,9 @@ languageName = "Українська"
 [languages.pt-br]
 languageName = "🇧🇷"
 
-  [languages.pt-br.guestbook]
-  title = "Livro de Visitas"
-  description = "Deixe um comentário abaixo. Pode ser qualquer coisa - uma pergunta, agradecimento, informação ou até mesmo uma piada."
+[languages.pt-br.guestbook]
+title = "Livro de Visitas"
+description = "Deixe um comentário abaixo. Pode ser qualquer coisa - uma pergunta, agradecimento, informação ou até mesmo uma piada."
 
 [[languages.pt-br.menu.main]]
 name = "Blog"
